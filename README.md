@@ -75,5 +75,4 @@ This study focuses on evaluating and forecasting the psychological well-being of
 
 ---
 
-## 📂 Project Structure
 
